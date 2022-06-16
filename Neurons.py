@@ -2,6 +2,7 @@
 A single neuron ch1 to ch2
 neural network from scratch
 3/20/21
+This is a simple example 
 '''
 
 #creating a single neuron
